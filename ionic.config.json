@@ -1,0 +1,7 @@
+{
+  "name": "jcd-product-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
