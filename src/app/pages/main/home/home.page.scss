@@ -1,0 +1,22 @@
+.center-content {
+  display: inline;
+
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 50px; /* Ajusta este valor según sea necesario */
+  padding: 10px; /* Ajusta el margen interno según sea necesario */
+}
+ion-content {
+  --padding-top: 20px;
+  --padding-bottom: 20px;
+}
+
+ion-card {
+  margin: auto;
+  width: 400px;
+  border-radius: 15px;
+}
+
+ion-content {
+  --padding-bottom: 70px;
+}
